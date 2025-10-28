@@ -1,0 +1,2 @@
+streamlit>=1.40.1
+sparc_custom_tabs>=0.1.0
