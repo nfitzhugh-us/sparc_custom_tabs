@@ -133,7 +133,7 @@ dmypy.json
 .idea/
 package-lock.json
 .prettierrc
-setup.*
+sparc_custom_tabs/setup.*
 build_and_upload_to_twine*
 sparc_custom_tabs/frontend/node_modules/
 sparc_custom_tabs/frontend/build/
