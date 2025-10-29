@@ -11,7 +11,7 @@ setuptools.setup(
     description="An all-in-one place, to find complex or just natively unavailable components on streamlit.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nfitzhugh-us/sparc-custom-tabs",
+    url="https://github.com/nfitzhugh-us/sparc_custom_tabs",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
