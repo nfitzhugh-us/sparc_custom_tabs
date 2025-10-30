@@ -333,6 +333,7 @@
     line-height: 1.2;
   }
   .menu-item {
+    color: #edeff1;
     width: 175px;
     margin: 1px 1px;
     user-select: none;

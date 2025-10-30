@@ -12,7 +12,7 @@ authors=[
     { name="Nick Fitzhugh", email="nicholas.j.fitzhugh@gmail.com" },
 ]
 description="custom tabs component for sparc app derived from github: Mohamed-512's tab bar component"
-url="https://github.com/nfitzhugh-us/sparc_custom_tabs"
+readme = "README.md"
 classifiers=[
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -20,5 +20,8 @@ classifiers=[
 ]
 keywords=["Python", "Streamlit", "React", "JavaScript"]
 requires-python=">=3.6"
+
+[project.urls]
+Repository = "https://github.com/nfitzhugh-us/sparc_custom_tabs"
 
 
