@@ -1,8 +1,6 @@
 import streamlit as st
 import sparc_custom_tabs as tabs
 
-import sparc_custom_tabs as tabs
-
 st.title("Tabs Test")
 
 stepper_tabs = [tabs.TabBarItemData(id = 0, title = 'Tab 1', description = "description"), tabs.TabBarItemData(id = 1, title = 'Tab 2', description = "description"), tabs.TabBarItemData(id = 2, title = 'Tab 3', description = "description"), tabs.TabBarItemData(id = 3, title = 'Tab 4', description = "description"), tabs.TabBarItemData(id = 4, title = 'Tab 5', description = "description")]

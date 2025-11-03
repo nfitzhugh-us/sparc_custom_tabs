@@ -5,6 +5,9 @@ import {
   withStreamlitConnection
 } from "streamlit-component-lib"
 
+// Build marker: change this string between builds (or inject via env var) so you can tell which bundle loaded.
+console.log("TABBAR_BUNDLE_ID: local-dev-or-rebuild-20251103-01")
+
 interface MenuItem {
   id: number | string
   title: string
