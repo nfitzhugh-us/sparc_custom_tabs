@@ -357,8 +357,14 @@
   }
   
   .scroll-menu-arrow {
-    padding: 20px;
+    color: #edeff1;
+    margin: 1px 1px;
     cursor: pointer;
+    border: 1px solid #344b6e;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #203354;
+    height: 51.5px;
   }
   .h1,
   h1 {
