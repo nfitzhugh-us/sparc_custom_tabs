@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name="sparc_custom_tabs"
-version="0.1.2"
+version="1.0.0"
 dependencies = [
   "streamlit >= 1.40.1"
 ]
