@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from typing import List
 import subprocess
 
-IS_RELEASE = True
+IS_RELEASE = False
 
 # Build frontend if build directory doesn't exist
 absolute_path = os.path.dirname(os.path.abspath(__file__))
